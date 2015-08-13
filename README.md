@@ -1,2 +1,2 @@
-# js-orm
+# orm.js
 JavaScript ORM.
